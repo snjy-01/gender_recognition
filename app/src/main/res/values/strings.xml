@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gender_Rec</string>
+    <string name="upload_a_picture">upload a picture</string>
+    <string name="G_Show">MALE</string>
+</resources>
