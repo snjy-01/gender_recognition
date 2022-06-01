@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable custom_add_icon
+drawable ic_add
+drawable ic_face_
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id avatar
+id frameLayout
+id gender
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string G_Show
+string app_name
+string default_web_client_id
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+string upload_a_picture
+style Theme.Gender_Rec
