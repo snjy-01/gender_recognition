@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008613585632",
+    "project_id": "gender-rec",
+    "storage_bucket": "gender-rec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008613585632:android:f2deb33fb9b7400f0c1685",
+        "android_client_info": {
+          "package_name": "com.example.gender_rec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008613585632-cpulq7rd77pr5polnl2dam89e7jsls2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_w18pWw3VO8icmYjsC0pYcxD1To-0TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008613585632-cpulq7rd77pr5polnl2dam89e7jsls2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
